@@ -9,6 +9,16 @@ The objective of this project was to design, implement and validate several fund
 
 The project emphasizes practical applications of digital electronics concepts, including logic gates, counters, multiplexers, flip-flops, encoders, decoders and digital system integration.
 
+## Simulation Files
+
+The complete digital system is available in the `circuit/` directory.
+
+To run the project:
+
+1. Download the `Circuit_Logic.CircuitProject` file.
+2. Download the LogicCircuit software:
+https://www.logiccircuit.org/download.html
+3. Start the simulation to observe the behavior of the implemented modules and the integrated 12-hour digital clock.
 ## Objectives
 
 - Understand the operation of combinational circuits.
