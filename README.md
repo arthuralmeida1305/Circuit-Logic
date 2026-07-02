@@ -126,11 +126,12 @@ The development process reinforced concepts related to combinational and sequent
 - FPGA implementation
 - Hardware prototyping
 
-## Author
+## Authors
 
 Arthur
+Marcelo
 
-Computer Science Undergraduate Student
+Computer Science Undergraduate Students
 
 State University of Ceará, UECE
 
