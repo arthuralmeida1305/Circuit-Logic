@@ -129,6 +129,7 @@ The development process reinforced concepts related to combinational and sequent
 ## Authors
 
 Arthur
+
 Marcelo
 
 Computer Science Undergraduate Students
